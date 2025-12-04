@@ -25,12 +25,17 @@ to drive innovation and success in my future endeavors.
 
 ---
 ## 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows & Linux](https://img.shields.io/badge/Windows_&_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📌 Featured Projects
 
 ### 🩺 [KYH (Know Your Health)](https://gangadharprathap.github.io/KYH/)
 A medical website designed to provide accurate information about medicines and diseases.  
-**Tools Used:** HTML, CSS  
+ **Tools Used:** HTML, CSS  
 
 ---
 
@@ -43,9 +48,7 @@ A self-improvement and training website built to enhance consistency and persona
 ## 📊 GitHub Stats
 
 ![Prathap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangadharPrathap&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GangadharPrathap&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=GangadharPrathap&theme=tokyonight&hide_border=false)
-![Trophy](https://github-profile-trophy.vercel.app/?username=GangadharPrathap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
