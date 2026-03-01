@@ -55,7 +55,6 @@ A self-improvement and training website built to enhance consistency and persona
 
 ## 📊 GitHub Stats
 
-![Prathap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangadharPrathap&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gangadharprathap&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 ---
